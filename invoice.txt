@@ -1,0 +1,36 @@
+-----------------------------------------------
+|                 Sport Check                 |
+|                                             |
+| ID:                                 17260   |
+|  - Name:                     Sleeping Bag   |
+|  - Size:                                    |
+| Price: $                             14.5   |
+|                                             |
+| ID:                                 12540   |
+|  - Name:                    4-Person Tent   |
+|  - Size:                              N/A   |
+| Price: $                            20.99   |
+|                                             |
+| ID:                                 14720   |
+|  - Name:                       Nike Shoes   |
+|  - Size:                               10   |
+| Price: $                            30.99   |
+|                                             |
+| ID:                                 13660   |
+|  - Name:                       Fila Shoes   |
+|  - Size:                                5   |
+| Price: $                            29.99   |
+|                                             |
+| ID:                                 27140   |
+|  - Name:                  Swimming Trunks   |
+|  - Size:                                7   |
+| Price: $                            15.34   |
+|                                             |
+|                                             |
+| Province:                         Ontario   |
+| HST: $                               0.13   |
+| Shipping: $                          5.99   |
+| Sub Price: $                       117.80   |
+| Tax Price: $                        15.31   |
+| Total Price: $                     133.11   |
+-----------------------------------------------

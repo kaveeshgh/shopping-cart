@@ -1,0 +1,19 @@
+17260;Nike Running Shoes;79.99;5;6;7;8;9;10;n/a;n/a;n/a;n/a
+12540;Adidas Running Shoes;74.99;5;6;7;8;9;10;11;12;n/a;n/a
+14720;New Balance Running Shoes;84.99;5;6;7;8;9;10;11;12;n/a;n/a
+13660;Asics Running Shoes;104.99;5;5.5;6;6.5;7;7.5;8;8.5;9;10
+27140;Nike Cleats;89.99;5;6;7;8;9;10;n/a;n/a;n/a;n/a
+22930;Adidas Cleats;79.99;5;6;7;8;9;10;11;12;n/a;n/a
+26210;Shinguards;19.99;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+21660;Soccer Ball;24.99;1;2;3;4;5;n/a;n/a;n/a;n/a;n/a
+26570;Goalie Gloves;49.99;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+36440;Ski Helmet;110.0;Adult;Youth;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+36920;Ski Goggles;89.99;Adult;Youth;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+36110;Skis;399.99;Adult;Teen;Youth;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+36250;Ski Boots;169.99;5;6;7;8;9;10;11;12;n/a;n/a
+36310;Ski Poles;54.99;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+46240;2-Person Tent;209.99;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+46340;3-Person Tent;259.99;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+46440;4-Person Tent;309.99;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+46220;Sleeping Bag;109.99;Adult;Youth;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+46880;Hiking Backpack;209.99;Men;Women;Youth;n/a;n/a;n/a;n/a;n/a;n/a;n/a
